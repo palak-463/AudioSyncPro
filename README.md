@@ -16,7 +16,6 @@
 |----------------------|-----------------------------------------------------|  
 | **Machine Learning** | PyTorch, Google Translate API, DeepL API            |  
 | **Video Processing** | FFmpeg, Pyannote Diarization System                 |  
-| **Performance**      | NVIDIA CUDA, ONNX Runtime                           |  
 | **Frontend**         | Wagner                                              |  
 | **Backend**          | Gradio, Python                                      |  
 <br>
