@@ -23,13 +23,13 @@
 
 🛠️ **System Architecture:** <br>
 **VoiceSyncPro** uses a modular architecture to ensure flexibility and high efficiency.<br>
-**Input & Pre-processing:** Prepares video/audio for transcription and translation.<br>
-**Transcription Module:** Converts spoken dialogue into text with speaker segmentation.<br>
-**Translation Module:** Provides accurate, context-aware translations.<br>
-**Audio Feature Extraction:** Maintains original pitch and tone in synthesized audio.<br>
-**Lip Sync & Synchronization:** Aligns translated audio perfectly with visuals.<br>
-**Expression Modeling:** Generates realistic visual expressions from audio stress.<br>
-**Final Output Generation:** Produces the localized video, ready for distribution.<br><br>
+- **Input & Pre-processing:** Prepares video/audio for transcription and translation.<br>
+- **Transcription Module:** Converts spoken dialogue into text with speaker segmentation.<br>
+- **Translation Module:** Provides accurate, context-aware translations.<br>
+- **Audio Feature Extraction:** Maintains original pitch and tone in synthesized audio.<br>
+- **Lip Sync & Synchronization:** Aligns translated audio perfectly with visuals.<br>
+- **Expression Modeling:** Generates realistic visual expressions from audio stress.<br>
+- **Final Output Generation:** Produces the localized video, ready for distribution.<br><br>
 
 🌟 **Key Highlights:**<br>
 Speech-to-text transcription achieves 95%+ accuracy even in complex scenarios.<br>
