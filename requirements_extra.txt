@@ -1,0 +1,19 @@
+praat-parselmouth>=0.4.3
+pyworld==0.3.2
+faiss-cpu==1.7.3
+torchcrepe==0.0.20
+ffmpeg-python>=0.2.0
+fairseq==0.12.2 
+gdown
+rarfile
+transformers
+accelerate
+optimum
+sentencepiece
+srt
+git+https://github.com/R3gm/openvoice_package.git@lite
+openai==1.14.3
+tiktoken==0.6.0
+# Documents
+pypdf==4.2.0
+python-docx
