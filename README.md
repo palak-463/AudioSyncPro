@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎥 Dubbing Studio 
 🎬 Video Translation with Synchronized Audio 🌐
 
@@ -20,3 +21,6 @@ This command sets the theme to a custom theme and selects French as the interfac
 Feel free to customize these arguments according to your preferences and requirements.
 
 
+=======
+# AudioSyncPro
+>>>>>>> ddfaa8da9daed53e1f702f4aee85d2403b885435
