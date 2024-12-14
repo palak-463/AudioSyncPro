@@ -32,10 +32,10 @@
 - **Final Output Generation:** Produces the localized video, ready for distribution.<br><br>
 
 🌟 **Key Highlights:**<br>
-Speech-to-text transcription achieves 95%+ accuracy even in complex scenarios.<br>
-Processes 10-minute videos in just 15–30 minutes on average.<br>
-Handles large file sizes and concurrent requests seamlessly.<br>
-Simplifies content localization, allowing users to focus on creativity.<br><br>
+- Speech-to-text transcription achieves 95%+ accuracy even in complex scenarios.<br>
+- Processes 10-minute videos in just 15–30 minutes on average.<br>
+- Handles large file sizes and concurrent requests seamlessly.<br>
+- Simplifies content localization, allowing users to focus on creativity.<br><br>
 
 📊 **User Benefits:**<br>
 🎥 **Content Creators:** Localize videos for a global audience effortlessly.<br>
