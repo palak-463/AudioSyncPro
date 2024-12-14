@@ -20,7 +20,7 @@
 | **Frontend**         | Wagner                                              |  
 | **Backend**          | Gradio, Python                                      |  
 <br>
-🛠️ **System Architecture:**<br>
+🛠️ **System Architecture:** <br>
 **VoiceSyncPro** uses a modular architecture to ensure flexibility and high efficiency.<br>
 **Input & Pre-processing:** Prepares video/audio for transcription and translation.<br>
 **Transcription Module:** Converts spoken dialogue into text with speaker segmentation.<br>
